@@ -718,6 +718,19 @@
       "github": "https://github.com/eversonzs",
       "linkedin": "https://www.linkedin.com/in/eversonzs/",
       "quote": "If you do something, do it great!"
-    }
+    },
+    {
+      "name": "Emilia",
+      "lastName": "Solorzano",
+      "gravatarEmail": "emilia.solorzano@acklenavenue.com",
+      "position": "People Ops Assistant",
+      "location": "Choloma, Honduras",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "linkedin": "https://www.linkedin.com/in/emiliasolorzano/",
+      "quote": "Aquel que conoce todas las respuestas no se ha hecho todas las preguntas.<br> - Confucio"
+    },
   ]
 }
